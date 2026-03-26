@@ -9,7 +9,7 @@ tags:
 
 # BeCurious
 
-A digital garden by [[Venkatesh Das]] — Senior AI Engineer, curious human, based in [[Tamil Nadu]].
+A digital garden by [[Venkatesh Das]] — Senior AI Engineer, curious human and exploring everyday.
 
 This is where research becomes writing. Not polished essays — living notes that grow over time.
 
