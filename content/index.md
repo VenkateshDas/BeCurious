@@ -1,5 +1,5 @@
 ---
-title: BeCurious — Venkatesh's Digital Garden
+title: Venkatesh Murugadas
 description: Research, curiosity, and learning in public. Notes on AI, psychology, life science, and the art of thinking.
 date: 2026-03-26
 tags:
@@ -7,7 +7,7 @@ tags:
   - digital-garden
 ---
 
-# BeCurious
+# Be Curious
 
 A digital garden by [[Venkatesh Das]] — Senior AI Engineer, curious human and exploring everyday.
 
